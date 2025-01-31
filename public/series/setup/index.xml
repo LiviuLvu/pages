@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Setup on Welcome</title>
+    <link>http://192.168.65.2:1313/series/setup/</link>
+    <description>Recent content in Setup on Welcome</description>
+    <image>
+      <title>Welcome</title>
+      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
+      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Thu, 12 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.65.2:1313/series/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dual Boot Windows 10 and Linux Mint</title>
+      <link>http://192.168.65.2:1313/posts/papermod/dual-boot/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/posts/papermod/dual-boot/</guid>
+      <description>Testing out a workflow with 2 operating systems.</description>
+    </item>
+  </channel>
+</rss>

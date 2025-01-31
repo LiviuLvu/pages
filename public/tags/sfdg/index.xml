@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sfdg on Welcome</title>
+    <link>http://192.168.65.2:1313/tags/sfdg/</link>
+    <description>Recent content in Sfdg on Welcome</description>
+    <image>
+      <title>Welcome</title>
+      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
+      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.65.2:1313/tags/sfdg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dsgsfdg</title>
+      <link>http://192.168.65.2:1313/posts/router-opnsense/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/posts/router-opnsense/</guid>
+      <description>&lt;p&gt;Never imagined I would be writing about this. I built my own firewall / router using a small form factor PC with OPNsense open source firewall router. The previous &amp;ldquo;normal&amp;rdquo; router is now only used as wireless access to OPNsense.&lt;/p&gt;
+&lt;h3 id=&#34;why-did-i-do-it&#34;&gt;Why did I do it?&lt;/h3&gt;
+&lt;p&gt;Its incredibly useful, practical and fun to learn something I am very interested in: blue team, SOC analyst perspective and improving network security for my home.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

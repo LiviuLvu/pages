@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on Welcome</title>
+    <link>http://192.168.65.2:1313/series/</link>
+    <description>Recent content in Series on Welcome</description>
+    <image>
+      <title>Welcome</title>
+      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
+      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.65.2:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>http://192.168.65.2:1313/series/programming/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/series/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
+      <link>http://192.168.65.2:1313/series/workflow/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/series/workflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networks</title>
+      <link>http://192.168.65.2:1313/series/networks/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/series/networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dev</title>
+      <link>http://192.168.65.2:1313/series/dev/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/series/dev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Styles</title>
+      <link>http://192.168.65.2:1313/series/styles/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/series/styles/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

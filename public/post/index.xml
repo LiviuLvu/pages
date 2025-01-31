@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Welcome</title>
+    <link>http://192.168.65.2:1313/post/</link>
+    <description>Recent content in Posts on Welcome</description>
+    <image>
+      <title>Welcome</title>
+      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
+      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://192.168.65.2:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://192.168.65.2:1313/post/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://192.168.65.2:1313/post/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Test Lorem ipsum&lt;/p&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://192.168.65.2:1313/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/post/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>http://192.168.65.2:1313/post/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/post/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>http://192.168.65.2:1313/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/post/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://192.168.65.2:1313/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/post/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+  </channel>
+</rss>

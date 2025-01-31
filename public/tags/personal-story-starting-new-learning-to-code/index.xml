@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Personal Story Starting New Learning to Code&#34; on Welcome</title>
+    <link>http://192.168.65.2:1313/tags/personal-story-starting-new-learning-to-code/</link>
+    <description>Recent content in Personal Story Starting New Learning to Code&#34; on Welcome</description>
+    <image>
+      <title>Welcome</title>
+      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
+      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.65.2:1313/tags/personal-story-starting-new-learning-to-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why i started writing code for the front end?</title>
+      <link>http://192.168.65.2:1313/posts/code_syntax/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/posts/code_syntax/</guid>
+      <description>A little summary abouy starting out</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Welcome</title>
+    <link>http://192.168.65.2:1313/tags/</link>
+    <description>Recent content in Tags on Welcome</description>
+    <image>
+      <title>Welcome</title>
+      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
+      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.65.2:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate</title>
+      <link>http://192.168.65.2:1313/tags/automate/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/automate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash</title>
+      <link>http://192.168.65.2:1313/tags/bash/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node</title>
+      <link>http://192.168.65.2:1313/tags/node/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripting</title>
+      <link>http://192.168.65.2:1313/tags/scripting/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/scripting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sharing</title>
+      <link>http://192.168.65.2:1313/tags/sharing/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/sharing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://192.168.65.2:1313/tags/git/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process Optimization</title>
+      <link>http://192.168.65.2:1313/tags/process-optimization/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/process-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teamwork</title>
+      <link>http://192.168.65.2:1313/tags/teamwork/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/teamwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Centos7</title>
+      <link>http://192.168.65.2:1313/tags/centos7/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/centos7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Server</title>
+      <link>http://192.168.65.2:1313/tags/home-server/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/home-server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://192.168.65.2:1313/tags/linux/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networks</title>
+      <link>http://192.168.65.2:1313/tags/networks/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Owncloud</title>
+      <link>http://192.168.65.2:1313/tags/owncloud/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/owncloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>http://192.168.65.2:1313/tags/terminal/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Version Control</title>
+      <link>http://192.168.65.2:1313/tags/version-control/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/version-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book Review</title>
+      <link>http://192.168.65.2:1313/tags/book-review/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/book-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser Perfomance</title>
+      <link>http://192.168.65.2:1313/tags/browser-perfomance/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/browser-perfomance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Http2</title>
+      <link>http://192.168.65.2:1313/tags/http2/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/http2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://192.168.65.2:1313/tags/javascript/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Perfomance</title>
+      <link>http://192.168.65.2:1313/tags/network-perfomance/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/network-perfomance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pattern Generator</title>
+      <link>http://192.168.65.2:1313/tags/pattern-generator/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/pattern-generator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualization</title>
+      <link>http://192.168.65.2:1313/tags/visualization/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://192.168.65.2:1313/tags/web-development/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebRTC</title>
+      <link>http://192.168.65.2:1313/tags/webrtc/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/webrtc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>http://192.168.65.2:1313/tags/css/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jss</title>
+      <link>http://192.168.65.2:1313/tags/jss/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/jss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Material Ui</title>
+      <link>http://192.168.65.2:1313/tags/material-ui/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/material-ui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://192.168.65.2:1313/tags/react/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UI Overrides</title>
+      <link>http://192.168.65.2:1313/tags/ui-overrides/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/ui-overrides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Es6</title>
+      <link>http://192.168.65.2:1313/tags/es6/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/es6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generators</title>
+      <link>http://192.168.65.2:1313/tags/generators/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/generators/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dual Boot</title>
+      <link>http://192.168.65.2:1313/tags/dual-boot/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/dual-boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Install Linux Mint</title>
+      <link>http://192.168.65.2:1313/tags/install-linux-mint/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/install-linux-mint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Mint</title>
+      <link>http://192.168.65.2:1313/tags/linux-mint/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/linux-mint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 10</title>
+      <link>http://192.168.65.2:1313/tags/windows-10/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://192.168.65.2:1313/tags/windows-10/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
