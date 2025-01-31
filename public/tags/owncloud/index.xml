@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Owncloud on Welcome</title>
+    <title>Owncloud on Pages</title>
     <link>https://liviu.pages.dev/tags/owncloud/</link>
-    <description>Recent content in Owncloud on Welcome</description>
-    <image>
-      <title>Welcome</title>
-      <url>https://liviu.pages.dev/images/papermod-cover.png</url>
-      <link>https://liviu.pages.dev/images/papermod-cover.png</link>
-    </image>
+    <description>Recent content in Owncloud on Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>

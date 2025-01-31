@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: 'https://liviu.pages.dev/'
 languageCode: 'en-us'
-title: "Welcome"
+title: "Pages"
 
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
@@ -19,7 +19,7 @@ mainsections: ["posts", "papermod"]
 
 minify:
   disableXML: true
-  # minifyOutput: true
+  minifyOutput: true
 
 languages:
   en:
@@ -40,50 +40,8 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-
-  fr:
-    languageName: ":fr:"
-    weight: 2
-    title: PaperModL2
-    taxonomies:
-      category: FRcategories
-      tag: FRtags
-      series: FRseries
-    menu:
-      main:
-        - name: Archive
-          url: archives/
-          weight: 5
-        - name: FRTags
-          url: frtags
-          weight: 10
-        - name: FRCategories
-          url: frcategories
-          weight: 10
-        - name: FRSeries
-          url: frseries
-          weight: 10
-        - name: NullLink
-          url: "#"
-
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    # params:
-      # languageAltTitle: French
-      # profileMode:
-      #   enabled: true
-      #   title: PaperMod
-      #   imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-      #   imageTitle: ProfileMode image
-      #   # imageWidth: 120
-      #   # imageHeight: 120
-      #   subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-      #   buttons:
-      #     - name: Blog
-      #       url: posts
-      #     - name: Profile Mode
-      #       url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+        # - name: WiKi
+        #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
 outputs:
   home:
@@ -98,7 +56,6 @@ params:
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
-  # disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
   # disableSpecial1stPost: true
@@ -111,27 +68,30 @@ params:
   ShowPageNums: true
   ShowToc: false
   # comments: false
-  images: ["images/papermod-cover.png"]
+  # images: ["images/papermod-cover.png"]
 
   homeInfoParams:
     Title: "Iancu Liviu"
     Content: >
-      Javascript developer, former designer, curious geek
+      Web developer, former designer, and a curious geek at heart. On this blog i write about experiments, thoughts and my learning process. 
+      Tinkering with scripts, firewalls, home network, web apps, algorithms, design and more.
 
   socialIcons:
     - name: github
-      title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
+      title: Github
+      url: "https://github.com/LiviuLvu"
+    - name: linkedin
+      title: Linkedin
+      url: "https://www.linkedin.com/in/liviuiancu/"
     - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
-
+      title: X/Twitter
+      url: "https://x.com/ianculiviuioan"
+    - name: buymeacoffee
+      title: Buy me a coffee
+      url: https://github.com/sponsors/LiviuLvu
+    # - name: KoFi
+    #   title: Buy me a Ko-Fi :)
+    #   url: "https://ko-fi.com/adityatelange"  
   # editPost:
   #   URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
   #   Text: "Suggest Changes" # edit text
@@ -200,8 +160,8 @@ markup:
 #     privacyEnhanced: true
 
 services:
-  instagram:
-    disableInlineCSS: true
+  # instagram:
+  #   disableInlineCSS: true
   twitter:
     disableInlineCSS: true
 

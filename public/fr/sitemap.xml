@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://liviu.pages.dev/fr/frcategories/</loc>
+    <loc>http://192.168.65.2:1313/fr/frcategories/</loc>
   </url><url>
-    <loc>https://liviu.pages.dev/fr/frseries/</loc>
+    <loc>http://192.168.65.2:1313/fr/frseries/</loc>
   </url><url>
-    <loc>https://liviu.pages.dev/fr/frtags/</loc>
+    <loc>http://192.168.65.2:1313/fr/frtags/</loc>
   </url><url>
-    <loc>https://liviu.pages.dev/fr/</loc>
+    <loc>http://192.168.65.2:1313/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liviu.pages.dev/"
+                href="http://192.168.65.2:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://liviu.pages.dev/fr/"
+                href="http://192.168.65.2:1313/fr/"
                 />
   </url><url>
-    <loc>https://liviu.pages.dev/fr/search/</loc>
+    <loc>http://192.168.65.2:1313/fr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liviu.pages.dev/search/"
+                href="http://192.168.65.2:1313/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://liviu.pages.dev/fr/search/"
+                href="http://192.168.65.2:1313/fr/search/"
                 />
   </url>
 </urlset>
