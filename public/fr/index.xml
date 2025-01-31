@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperModL2</title>
-    <link>http://192.168.65.2:1313/fr/</link>
+    <link>https://liviu.pages.dev/fr/</link>
     <description>Recent content on PaperModL2</description>
     <image>
       <title>PaperModL2</title>
-      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
-      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+      <url>https://liviu.pages.dev/images/papermod-cover.png</url>
+      <link>https://liviu.pages.dev/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>fr</language>
     <copyright>PaperMod Contributors</copyright>
-    <atom:link href="http://192.168.65.2:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviu.pages.dev/fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

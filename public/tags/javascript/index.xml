@@ -1,39 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Javascript on Welcome</title>
-    <link>http://192.168.65.2:1313/tags/javascript/</link>
-    <description>Recent content in Javascript on Welcome</description>
+    <title>JavaScript on Welcome</title>
+    <link>https://liviu.pages.dev/tags/javascript/</link>
+    <description>Recent content in JavaScript on Welcome</description>
     <image>
       <title>Welcome</title>
-      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
-      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+      <url>https://liviu.pages.dev/images/papermod-cover.png</url>
+      <link>https://liviu.pages.dev/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.65.2:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviu.pages.dev/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mathematical Pattern Visualization with D3</title>
-      <link>http://192.168.65.2:1313/posts/math-d3-visualisation/</link>
+      <link>https://liviu.pages.dev/posts/math-d3-visualisation/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/math-d3-visualisation/</guid>
+      <guid>https://liviu.pages.dev/posts/math-d3-visualisation/</guid>
       <description>Visualising patterns using the D3 library.</description>
     </item>
     <item>
-      <title>Sorting App for Classical Composers</title>
-      <link>http://192.168.65.2:1313/posts/papermod/sorting-composers/</link>
-      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/papermod/sorting-composers/</guid>
-      <description>Trying out list sorting library.</description>
-    </item>
-    <item>
-      <title>Generators in Js Example</title>
-      <link>http://192.168.65.2:1313/posts/papermod/generators-js/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/papermod/generators-js/</guid>
-      <description>Understanding how to use these in javascript.</description>
+      <title>Unit tests examples in Angular with Jasmine</title>
+      <link>https://liviu.pages.dev/posts/unit-tests-angular/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://liviu.pages.dev/posts/unit-tests-angular/</guid>
+      <description>For you if the importance of unit testing is unquestionable and you are looking for unit testing references with examples of code.</description>
     </item>
   </channel>
 </rss>

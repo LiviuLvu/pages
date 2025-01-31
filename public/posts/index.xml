@@ -2,37 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Welcome</title>
-    <link>http://192.168.65.2:1313/posts/</link>
+    <link>https://liviu.pages.dev/posts/</link>
     <description>Recent content in Posts on Welcome</description>
     <image>
       <title>Welcome</title>
-      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
-      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+      <url>https://liviu.pages.dev/images/papermod-cover.png</url>
+      <link>https://liviu.pages.dev/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.65.2:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviu.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building My Own Firewall Router with OPNsense: A Journey in Home Network Security</title>
+      <link>https://liviu.pages.dev/posts/router-opnsense/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviu.pages.dev/posts/router-opnsense/</guid>
+      <description>Some practical benefits running OPNsense on your home network. It vastly improves safety for anyone at home using the internet.</description>
+    </item>
+    <item>
+      <title>Painting the command line: Coloring the terminal output to make more sense of data</title>
+      <link>https://liviu.pages.dev/posts/cmd-line-colors/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://liviu.pages.dev/posts/cmd-line-colors/</guid>
+      <description>Coloring the output of a command</description>
+    </item>
     <item>
       <title>Setting up a home CentOS 7 server with OwnCloud</title>
-      <link>http://192.168.65.2:1313/posts/centos7-owncloud/</link>
+      <link>https://liviu.pages.dev/posts/centos7-owncloud/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/centos7-owncloud/</guid>
+      <guid>https://liviu.pages.dev/posts/centos7-owncloud/</guid>
       <description>Lessons from High Performance Browser Networking from Ilya Grigorik. Fantastic resource, great help to understand how networks work.</description>
     </item>
     <item>
       <title>Mathematical Pattern Visualization with D3</title>
-      <link>http://192.168.65.2:1313/posts/math-d3-visualisation/</link>
+      <link>https://liviu.pages.dev/posts/math-d3-visualisation/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/math-d3-visualisation/</guid>
+      <guid>https://liviu.pages.dev/posts/math-d3-visualisation/</guid>
       <description>Visualising patterns using the D3 library.</description>
     </item>
     <item>
       <title>Notes on the book High Performance Browser Networking</title>
-      <link>http://192.168.65.2:1313/posts/book-on-browser-network/</link>
+      <link>https://liviu.pages.dev/posts/book-on-browser-network/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/book-on-browser-network/</guid>
+      <guid>https://liviu.pages.dev/posts/book-on-browser-network/</guid>
       <description>&lt;p&gt;This is a big book on performance for web developers. I am writing this article especially for myself as a reminder of the many things that can be improved in our apps and servers.&lt;br&gt;
 &lt;img alt=&#34;Osi model&#34; loading=&#34;lazy&#34; src=&#34;../../assets/img/image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What this book is about? In the words of the author:&lt;/p&gt;
@@ -43,59 +57,45 @@
     </item>
     <item>
       <title>Failing to sell a build optimization idea and not giving up</title>
-      <link>http://192.168.65.2:1313/posts/build-optimization/</link>
+      <link>https://liviu.pages.dev/posts/build-optimization/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/build-optimization/</guid>
+      <guid>https://liviu.pages.dev/posts/build-optimization/</guid>
       <description>Have you ever tried to explain something that could be very helpful but seems too complicated to others because you did not properly present your idea?</description>
     </item>
     <item>
-      <title>Sorting App for Classical Composers</title>
-      <link>http://192.168.65.2:1313/posts/papermod/sorting-composers/</link>
-      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/papermod/sorting-composers/</guid>
-      <description>Trying out list sorting library.</description>
+      <title>Trying out the Ergo blockchain environment</title>
+      <link>https://liviu.pages.dev/posts/ergo-blockchain/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviu.pages.dev/posts/ergo-blockchain/</guid>
+      <description>Started with this page &lt;a href=&#34;https://docs.ergoplatform.com/node/install/&#34;&gt;https://docs.ergoplatform.com/node/install/&lt;/a&gt; to install a ergo node but it quickly turned into 2 days of searching for alternatives and tutorials.</description>
+    </item>
+    <item>
+      <title>Learning blockchain programming</title>
+      <link>https://liviu.pages.dev/posts/blockchain-learning/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviu.pages.dev/posts/blockchain-learning/</guid>
+      <description>In the last couple of months I became curious about what makes a crypto currency work, and why I see more and more news about the technology behind it, promoting it as the future solution to so many problems. How does blockchain work?</description>
+    </item>
+    <item>
+      <title>Unit tests examples in Angular with Jasmine</title>
+      <link>https://liviu.pages.dev/posts/unit-tests-angular/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://liviu.pages.dev/posts/unit-tests-angular/</guid>
+      <description>For you if the importance of unit testing is unquestionable and you are looking for unit testing references with examples of code.</description>
     </item>
     <item>
       <title>Automate tasks and share using script files</title>
-      <link>http://192.168.65.2:1313/posts/automate-tasks/</link>
+      <link>https://liviu.pages.dev/posts/automate-tasks/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/automate-tasks/</guid>
+      <guid>https://liviu.pages.dev/posts/automate-tasks/</guid>
       <description>A bit about using the power of scripts to help my comrades automate repeated tasks and process optimizations.</description>
     </item>
     <item>
       <title>Git pull-request from command line</title>
-      <link>http://192.168.65.2:1313/posts/git-pull-from-shell/</link>
+      <link>https://liviu.pages.dev/posts/git-pull-from-shell/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/git-pull-from-shell/</guid>
+      <guid>https://liviu.pages.dev/posts/git-pull-from-shell/</guid>
       <description>A more direct pr request init from terminal</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://192.168.65.2:1313/posts/_copy/</link>
-      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/_copy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>React Material UI customization attempt</title>
-      <link>http://192.168.65.2:1313/posts/papermod/react-material/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/papermod/react-material/</guid>
-      <description>A small overview of how it went.</description>
-    </item>
-    <item>
-      <title>Generators in Js Example</title>
-      <link>http://192.168.65.2:1313/posts/papermod/generators-js/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/papermod/generators-js/</guid>
-      <description>Understanding how to use these in javascript.</description>
-    </item>
-    <item>
-      <title>Dual Boot Windows 10 and Linux Mint</title>
-      <link>http://192.168.65.2:1313/posts/papermod/dual-boot/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/papermod/dual-boot/</guid>
-      <description>Testing out a workflow with 2 operating systems.</description>
     </item>
   </channel>
 </rss>

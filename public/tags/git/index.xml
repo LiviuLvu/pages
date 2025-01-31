@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Git on Welcome</title>
-    <link>http://192.168.65.2:1313/tags/git/</link>
+    <link>https://liviu.pages.dev/tags/git/</link>
     <description>Recent content in Git on Welcome</description>
     <image>
       <title>Welcome</title>
-      <url>http://192.168.65.2:1313/images/papermod-cover.png</url>
-      <link>http://192.168.65.2:1313/images/papermod-cover.png</link>
+      <url>https://liviu.pages.dev/images/papermod-cover.png</url>
+      <link>https://liviu.pages.dev/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.65.2:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviu.pages.dev/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Failing to sell a build optimization idea and not giving up</title>
-      <link>http://192.168.65.2:1313/posts/build-optimization/</link>
+      <link>https://liviu.pages.dev/posts/build-optimization/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/build-optimization/</guid>
+      <guid>https://liviu.pages.dev/posts/build-optimization/</guid>
       <description>Have you ever tried to explain something that could be very helpful but seems too complicated to others because you did not properly present your idea?</description>
     </item>
     <item>
       <title>Git pull-request from command line</title>
-      <link>http://192.168.65.2:1313/posts/git-pull-from-shell/</link>
+      <link>https://liviu.pages.dev/posts/git-pull-from-shell/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://192.168.65.2:1313/posts/git-pull-from-shell/</guid>
+      <guid>https://liviu.pages.dev/posts/git-pull-from-shell/</guid>
       <description>A more direct pr request init from terminal</description>
     </item>
   </channel>
