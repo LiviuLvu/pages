@@ -6,7 +6,7 @@ summary: "A bit about using the power of scripts to help my comrades automate re
 tags: ["Bash", "Scripting", "Sharing", "Node", "Automate"]
 author: "Liviu Iancu"
 weight: 5
-series: ["Programming"]
+series: ["Automation"]
 # categories: [""]
 # aliases: [""]
 # cover:

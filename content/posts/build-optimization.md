@@ -6,7 +6,7 @@ summary: "Have you ever tried to explain something that could be very helpful bu
 tags: ["Git", "Bash", "Teamwork", "Process Optimization", "Scripting"]
 author: "Liviu Iancu"
 weight: 3
-series: ["Workflow"]
+series: ["Automation"]
 # categories: [""]
 # aliases: [""]
 # cover:
