@@ -13,9 +13,6 @@ series: ["Automation"]
 #   image: images/img.png
 #   caption: "Description [text](https://link.somewhere/)"
 ---
-
-# Comparing four ai generators generating a voting app
-
 Using the same prompt on four ai app generators to see how they compare. Main goal is to generate a voting web app.
 
 ## Tested same prompt on 4 app generators
