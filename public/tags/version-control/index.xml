@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Version Control on Pages</title>
-    <link>https://liviu.pages.dev/tags/version-control/</link>
-    <description>Recent content in Version Control on Pages</description>
+    <title>Version Control on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/version-control/</link>
+    <description>Recent content in Version Control on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviuiancu.com/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git pull-request from command line</title>
-      <link>https://liviu.pages.dev/posts/git-pull-from-shell/</link>
+      <link>https://liviuiancu.com/posts/git-pull-from-shell/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/git-pull-from-shell/</guid>
+      <guid>https://liviuiancu.com/posts/git-pull-from-shell/</guid>
       <description>A more direct pr request init from terminal</description>
     </item>
   </channel>

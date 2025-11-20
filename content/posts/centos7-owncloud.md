@@ -5,7 +5,7 @@ summary: "Lessons from High Performance Browser Networking from Ilya Grigorik. F
 # description: ""
 tags: ["Linux", "Centos7", "Home Server", "Owncloud", "Networks"]
 author: "Liviu Iancu"
-weight: 1
+weight: 2
 series: ["Network"]
 # categories: [""]
 # aliases: [""]

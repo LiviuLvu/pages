@@ -6,7 +6,7 @@ summary: "Reasons why I stopped using Azure and decided to use my home lab to bu
 tags: ["kubernetes", "azure", "mac mini", "cloud costs", "home lab", "virtual machine", "devops"]
 author: "Liviu Iancu"
 weight: 1
-series: ["devops"]
+series: ["Devops"]
 # categories: [""]
 # aliases: [""]
 # cover:

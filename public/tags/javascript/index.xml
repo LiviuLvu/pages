@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>JavaScript on Pages</title>
-    <link>https://liviu.pages.dev/tags/javascript/</link>
-    <description>Recent content in JavaScript on Pages</description>
+    <title>JavaScript on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/javascript/</link>
+    <description>Recent content in JavaScript on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviuiancu.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox plugin - Hide YouTube recommendation sections</title>
+      <link>https://liviuiancu.com/posts/firefox-ext-yt-hide/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/firefox-ext-yt-hide/</guid>
+      <description>Small experiment to observe the effect of hiding recommendation sections and stop doom scrolling.</description>
+    </item>
     <item>
       <title>Mathematical Pattern Visualization with D3</title>
-      <link>https://liviu.pages.dev/posts/math-d3-visualisation/</link>
+      <link>https://liviuiancu.com/posts/math-d3-visualisation/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/math-d3-visualisation/</guid>
+      <guid>https://liviuiancu.com/posts/math-d3-visualisation/</guid>
       <description>Visualising patterns using the D3 library.</description>
     </item>
     <item>
       <title>Unit tests examples in Angular with Jasmine</title>
-      <link>https://liviu.pages.dev/posts/unit-tests-angular/</link>
+      <link>https://liviuiancu.com/posts/unit-tests-angular/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/unit-tests-angular/</guid>
+      <guid>https://liviuiancu.com/posts/unit-tests-angular/</guid>
       <description>For you if the importance of unit testing is unquestionable and you are looking for unit testing references with examples of code.</description>
     </item>
   </channel>

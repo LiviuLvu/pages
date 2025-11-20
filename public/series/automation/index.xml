@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Automation on Dev Pages</title>
+    <link>https://liviuiancu.com/series/automation/</link>
+    <description>Recent content in Automation on Dev Pages</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviuiancu.com/series/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparing four ai generators generating a voting app</title>
+      <link>https://liviuiancu.com/posts/comparing-ai-generators/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/comparing-ai-generators/</guid>
+      <description>Using the same prompt on four ai app generators to see how they compare. Main goal is to generate a voting web app</description>
+    </item>
+    <item>
+      <title>Failing to sell a build optimization idea and not giving up</title>
+      <link>https://liviuiancu.com/posts/build-optimization/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/build-optimization/</guid>
+      <description>Have you ever tried to explain something that could be very helpful but seems too complicated to others because you did not properly present your idea?</description>
+    </item>
+    <item>
+      <title>Automate tasks and share using script files</title>
+      <link>https://liviuiancu.com/posts/automate-tasks/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/automate-tasks/</guid>
+      <description>A bit about using the power of scripts to help my comrades automate repeated tasks and process optimizations.</description>
+    </item>
+  </channel>
+</rss>

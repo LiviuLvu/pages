@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Http2 on Pages</title>
-    <link>https://liviu.pages.dev/tags/http2/</link>
-    <description>Recent content in Http2 on Pages</description>
+    <title>Http2 on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/http2/</link>
+    <description>Recent content in Http2 on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/tags/http2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviuiancu.com/tags/http2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on the book High Performance Browser Networking</title>
-      <link>https://liviu.pages.dev/posts/book-on-browser-network/</link>
+      <link>https://liviuiancu.com/posts/book-on-browser-network/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/book-on-browser-network/</guid>
+      <guid>https://liviuiancu.com/posts/book-on-browser-network/</guid>
       <description>&lt;p&gt;This is a big book on performance for web developers. I am writing this article especially for myself as a reminder of the many things that can be improved in our apps and servers.&lt;br&gt;
 &lt;img alt=&#34;Osi model&#34; loading=&#34;lazy&#34; src=&#34;../../assets/img/image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What this book is about? In the words of the author:&lt;/p&gt;

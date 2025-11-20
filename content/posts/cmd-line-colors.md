@@ -3,7 +3,7 @@ title: "Painting the command line: Coloring the terminal output to make more sen
 date: "2024-08-25"
 summary: "Coloring the output of a command"
 # description: ""
-tags: [""]
+tags: ["cmd", "terminal"]
 author: "Liviu Iancu"
 weight: 1
 series: ["Programming"]

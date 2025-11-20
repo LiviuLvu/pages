@@ -5,7 +5,7 @@ summary: "Using the same prompt on four ai app generators to see how they compar
 # description: ""
 tags: ["ai", "prompting", "automation"]
 author: "Liviu Iancu"
-weight: 3
+weight: 1
 series: ["Automation"]
 # categories: [""]
 # aliases: [""]

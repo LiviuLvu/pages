@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Networks on Pages</title>
-    <link>https://liviu.pages.dev/series/networks/</link>
+    <link>https://liviuiancu.com/series/networks/</link>
     <description>Recent content in Networks on Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/series/networks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviuiancu.com/series/networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up a home CentOS 7 server with OwnCloud</title>
-      <link>https://liviu.pages.dev/posts/centos7-owncloud/</link>
+      <link>https://liviuiancu.com/posts/centos7-owncloud/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/centos7-owncloud/</guid>
+      <guid>https://liviuiancu.com/posts/centos7-owncloud/</guid>
       <description>Lessons from High Performance Browser Networking from Ilya Grigorik. Fantastic resource, great help to understand how networks work.</description>
     </item>
   </channel>

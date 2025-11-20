@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Automate on Pages</title>
-    <link>https://liviu.pages.dev/tags/automate/</link>
-    <description>Recent content in Automate on Pages</description>
+    <title>Automate on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/automate/</link>
+    <description>Recent content in Automate on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/tags/automate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviuiancu.com/tags/automate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automate tasks and share using script files</title>
-      <link>https://liviu.pages.dev/posts/automate-tasks/</link>
+      <link>https://liviuiancu.com/posts/automate-tasks/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/automate-tasks/</guid>
+      <guid>https://liviuiancu.com/posts/automate-tasks/</guid>
       <description>A bit about using the power of scripts to help my comrades automate repeated tasks and process optimizations.</description>
     </item>
   </channel>

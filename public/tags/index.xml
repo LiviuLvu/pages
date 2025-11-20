@@ -1,271 +1,390 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Pages</title>
-    <link>https://liviu.pages.dev/tags/</link>
-    <description>Recent content in Tags on Pages</description>
+    <title>Tags on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/</link>
+    <description>Recent content in Tags on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviuiancu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Firewall</title>
-      <link>https://liviu.pages.dev/tags/firewall/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/firewall/</guid>
+      <title>Convex DB</title>
+      <link>https://liviuiancu.com/tags/convex-db/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/convex-db/</guid>
       <description></description>
     </item>
     <item>
-      <title>Home Network</title>
-      <link>https://liviu.pages.dev/tags/home-network/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/home-network/</guid>
+      <title>Home Lab</title>
+      <link>https://liviuiancu.com/tags/home-lab/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/home-lab/</guid>
       <description></description>
     </item>
     <item>
-      <title>Opnsense</title>
-      <link>https://liviu.pages.dev/tags/opnsense/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/opnsense/</guid>
+      <title>Networking</title>
+      <link>https://liviuiancu.com/tags/networking/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/networking/</guid>
       <description></description>
     </item>
     <item>
-      <title>Router</title>
-      <link>https://liviu.pages.dev/tags/router/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/router/</guid>
+      <title>Orbstack</title>
+      <link>https://liviuiancu.com/tags/orbstack/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/orbstack/</guid>
       <description></description>
     </item>
     <item>
-      <title>Blockchain</title>
-      <link>https://liviu.pages.dev/tags/blockchain/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/blockchain/</guid>
+      <title>Ai</title>
+      <link>https://liviuiancu.com/tags/ai/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ergo</title>
-      <link>https://liviu.pages.dev/tags/ergo/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/ergo/</guid>
+      <title>Automation</title>
+      <link>https://liviuiancu.com/tags/automation/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/automation/</guid>
       <description></description>
     </item>
     <item>
-      <title>Learning</title>
-      <link>https://liviu.pages.dev/tags/learning/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/learning/</guid>
+      <title>Prompting</title>
+      <link>https://liviuiancu.com/tags/prompting/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/prompting/</guid>
       <description></description>
     </item>
     <item>
-      <title>Starting Ergo Node</title>
-      <link>https://liviu.pages.dev/tags/starting-ergo-node/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/starting-ergo-node/</guid>
+      <title>Azure</title>
+      <link>https://liviuiancu.com/tags/azure/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/azure/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ubuntu</title>
-      <link>https://liviu.pages.dev/tags/ubuntu/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/ubuntu/</guid>
+      <title>Cloud Costs</title>
+      <link>https://liviuiancu.com/tags/cloud-costs/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/cloud-costs/</guid>
       <description></description>
     </item>
     <item>
-      <title>Truffle</title>
-      <link>https://liviu.pages.dev/tags/truffle/</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/truffle/</guid>
+      <title>Devops</title>
+      <link>https://liviuiancu.com/tags/devops/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/devops/</guid>
       <description></description>
     </item>
     <item>
-      <title>Angular</title>
-      <link>https://liviu.pages.dev/tags/angular/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/angular/</guid>
+      <title>Kubernetes</title>
+      <link>https://liviuiancu.com/tags/kubernetes/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/kubernetes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Jasmine</title>
-      <link>https://liviu.pages.dev/tags/jasmine/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/jasmine/</guid>
+      <title>Mac Mini</title>
+      <link>https://liviuiancu.com/tags/mac-mini/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/mac-mini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual Machine</title>
+      <link>https://liviuiancu.com/tags/virtual-machine/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/virtual-machine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser</title>
+      <link>https://liviuiancu.com/tags/browser/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/browser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hide Recommendations</title>
+      <link>https://liviuiancu.com/tags/hide-recommendations/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/hide-recommendations/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>https://liviu.pages.dev/tags/javascript/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/javascript/</guid>
+      <link>https://liviuiancu.com/tags/javascript/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
-      <title>Stackblitz</title>
-      <link>https://liviu.pages.dev/tags/stackblitz/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/stackblitz/</guid>
+      <title>Youtube</title>
+      <link>https://liviuiancu.com/tags/youtube/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/youtube/</guid>
       <description></description>
     </item>
     <item>
-      <title>Unit Testing</title>
-      <link>https://liviu.pages.dev/tags/unit-testing/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/unit-testing/</guid>
+      <title>Firewall</title>
+      <link>https://liviuiancu.com/tags/firewall/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/firewall/</guid>
       <description></description>
     </item>
     <item>
-      <title>Automate</title>
-      <link>https://liviu.pages.dev/tags/automate/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/automate/</guid>
+      <title>Home Network</title>
+      <link>https://liviuiancu.com/tags/home-network/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/home-network/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bash</title>
-      <link>https://liviu.pages.dev/tags/bash/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/bash/</guid>
+      <title>Opnsense</title>
+      <link>https://liviuiancu.com/tags/opnsense/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/opnsense/</guid>
       <description></description>
     </item>
     <item>
-      <title>Node</title>
-      <link>https://liviu.pages.dev/tags/node/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/node/</guid>
+      <title>Router</title>
+      <link>https://liviuiancu.com/tags/router/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/router/</guid>
       <description></description>
     </item>
     <item>
-      <title>Scripting</title>
-      <link>https://liviu.pages.dev/tags/scripting/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/scripting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sharing</title>
-      <link>https://liviu.pages.dev/tags/sharing/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/sharing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Git</title>
-      <link>https://liviu.pages.dev/tags/git/</link>
-      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Process Optimization</title>
-      <link>https://liviu.pages.dev/tags/process-optimization/</link>
-      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/process-optimization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teamwork</title>
-      <link>https://liviu.pages.dev/tags/teamwork/</link>
-      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/teamwork/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Centos7</title>
-      <link>https://liviu.pages.dev/tags/centos7/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/centos7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Home Server</title>
-      <link>https://liviu.pages.dev/tags/home-server/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/home-server/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://liviu.pages.dev/tags/linux/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networks</title>
-      <link>https://liviu.pages.dev/tags/networks/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/networks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Owncloud</title>
-      <link>https://liviu.pages.dev/tags/owncloud/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/owncloud/</guid>
+      <title>Cmd</title>
+      <link>https://liviuiancu.com/tags/cmd/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/cmd/</guid>
       <description></description>
     </item>
     <item>
       <title>Terminal</title>
-      <link>https://liviu.pages.dev/tags/terminal/</link>
-      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/terminal/</guid>
+      <link>https://liviuiancu.com/tags/terminal/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>https://liviuiancu.com/tags/blockchain/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ergo</title>
+      <link>https://liviuiancu.com/tags/ergo/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/ergo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>https://liviuiancu.com/tags/learning/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starting Ergo Node</title>
+      <link>https://liviuiancu.com/tags/starting-ergo-node/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/starting-ergo-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>https://liviuiancu.com/tags/ubuntu/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Truffle</title>
+      <link>https://liviuiancu.com/tags/truffle/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/truffle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angular</title>
+      <link>https://liviuiancu.com/tags/angular/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/angular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jasmine</title>
+      <link>https://liviuiancu.com/tags/jasmine/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/jasmine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stackblitz</title>
+      <link>https://liviuiancu.com/tags/stackblitz/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/stackblitz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unit Testing</title>
+      <link>https://liviuiancu.com/tags/unit-testing/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/unit-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automate</title>
+      <link>https://liviuiancu.com/tags/automate/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/automate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash</title>
+      <link>https://liviuiancu.com/tags/bash/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/bash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node</title>
+      <link>https://liviuiancu.com/tags/node/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripting</title>
+      <link>https://liviuiancu.com/tags/scripting/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/scripting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sharing</title>
+      <link>https://liviuiancu.com/tags/sharing/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/sharing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://liviuiancu.com/tags/git/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process Optimization</title>
+      <link>https://liviuiancu.com/tags/process-optimization/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/process-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teamwork</title>
+      <link>https://liviuiancu.com/tags/teamwork/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/teamwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Centos7</title>
+      <link>https://liviuiancu.com/tags/centos7/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/centos7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Server</title>
+      <link>https://liviuiancu.com/tags/home-server/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/home-server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://liviuiancu.com/tags/linux/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networks</title>
+      <link>https://liviuiancu.com/tags/networks/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Owncloud</title>
+      <link>https://liviuiancu.com/tags/owncloud/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/owncloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Version Control</title>
-      <link>https://liviu.pages.dev/tags/version-control/</link>
+      <link>https://liviuiancu.com/tags/version-control/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/version-control/</guid>
+      <guid>https://liviuiancu.com/tags/version-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Book Review</title>
-      <link>https://liviu.pages.dev/tags/book-review/</link>
+      <link>https://liviuiancu.com/tags/book-review/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/book-review/</guid>
+      <guid>https://liviuiancu.com/tags/book-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Browser Perfomance</title>
-      <link>https://liviu.pages.dev/tags/browser-perfomance/</link>
+      <link>https://liviuiancu.com/tags/browser-perfomance/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/browser-perfomance/</guid>
+      <guid>https://liviuiancu.com/tags/browser-perfomance/</guid>
       <description></description>
     </item>
     <item>
       <title>Http2</title>
-      <link>https://liviu.pages.dev/tags/http2/</link>
+      <link>https://liviuiancu.com/tags/http2/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/http2/</guid>
+      <guid>https://liviuiancu.com/tags/http2/</guid>
       <description></description>
     </item>
     <item>
       <title>Network Perfomance</title>
-      <link>https://liviu.pages.dev/tags/network-perfomance/</link>
+      <link>https://liviuiancu.com/tags/network-perfomance/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/network-perfomance/</guid>
+      <guid>https://liviuiancu.com/tags/network-perfomance/</guid>
       <description></description>
     </item>
     <item>
       <title>Pattern Generator</title>
-      <link>https://liviu.pages.dev/tags/pattern-generator/</link>
+      <link>https://liviuiancu.com/tags/pattern-generator/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/pattern-generator/</guid>
+      <guid>https://liviuiancu.com/tags/pattern-generator/</guid>
       <description></description>
     </item>
     <item>
       <title>Visualization</title>
-      <link>https://liviu.pages.dev/tags/visualization/</link>
+      <link>https://liviuiancu.com/tags/visualization/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/visualization/</guid>
+      <guid>https://liviuiancu.com/tags/visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>WebRTC</title>
-      <link>https://liviu.pages.dev/tags/webrtc/</link>
+      <link>https://liviuiancu.com/tags/webrtc/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/tags/webrtc/</guid>
+      <guid>https://liviuiancu.com/tags/webrtc/</guid>
       <description></description>
     </item>
   </channel>

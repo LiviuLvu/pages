@@ -1,8 +1,8 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: 'https://liviu.pages.dev/'
+baseURL: 'https://liviuiancu.com/'
 languageCode: 'en-us'
-title: "Pages"
+title: "Dev Pages"
 
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
@@ -71,7 +71,7 @@ params:
   # images: ["images/papermod-cover.png"]
 
   homeInfoParams:
-    Title: "Iancu Liviu"
+    Title: "Liviu Iancu"
     Content: >
       Web developer, former designer, and a curious geek at heart. On this blog i write about experiments, thoughts and my learning process. 
       Tinkering with scripts, firewalls, home network, web apps, algorithms, design and more.

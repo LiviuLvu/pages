@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Stackblitz on Pages</title>
-    <link>https://liviu.pages.dev/tags/stackblitz/</link>
-    <description>Recent content in Stackblitz on Pages</description>
+    <title>Stackblitz on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/stackblitz/</link>
+    <description>Recent content in Stackblitz on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/tags/stackblitz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviuiancu.com/tags/stackblitz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unit tests examples in Angular with Jasmine</title>
-      <link>https://liviu.pages.dev/posts/unit-tests-angular/</link>
+      <link>https://liviuiancu.com/posts/unit-tests-angular/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/unit-tests-angular/</guid>
+      <guid>https://liviuiancu.com/posts/unit-tests-angular/</guid>
       <description>For you if the importance of unit testing is unquestionable and you are looking for unit testing references with examples of code.</description>
     </item>
   </channel>

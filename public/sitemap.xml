@@ -2,180 +2,243 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://liviu.pages.dev/posts/router-opnsense/</loc>
+    <loc>https://liviuiancu.com/posts/convex-db-self-host/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/posts/comparing-ai-generators/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/posts/homelab-alternative-to-cloud/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/posts/router-opnsense/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/cmd-line-colors/</loc>
+    <loc>https://liviuiancu.com/posts/cmd-line-colors/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/centos7-owncloud/</loc>
+    <loc>https://liviuiancu.com/posts/firefox-ext-yt-hide/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/posts/centos7-owncloud/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/math-d3-visualisation/</loc>
+    <loc>https://liviuiancu.com/posts/math-d3-visualisation/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/book-on-browser-network/</loc>
+    <loc>https://liviuiancu.com/posts/book-on-browser-network/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/build-optimization/</loc>
+    <loc>https://liviuiancu.com/posts/build-optimization/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/ergo-blockchain/</loc>
+    <loc>https://liviuiancu.com/posts/ergo-blockchain/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/blockchain-learning/</loc>
+    <loc>https://liviuiancu.com/posts/blockchain-learning/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/unit-tests-angular/</loc>
+    <loc>https://liviuiancu.com/posts/unit-tests-angular/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/automate-tasks/</loc>
+    <loc>https://liviuiancu.com/posts/automate-tasks/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/git-pull-from-shell/</loc>
+    <loc>https://liviuiancu.com/posts/git-pull-from-shell/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/firewall/</loc>
+    <loc>https://liviuiancu.com/tags/convex-db/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/series/devops/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/home-lab/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/networking/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/orbstack/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/posts/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/series/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/ai/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/automation/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/series/automation/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/prompting/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/azure/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/cloud-costs/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/devops/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/kubernetes/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/mac-mini/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/virtual-machine/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/browser/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/hide-recommendations/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/javascript/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/series/programming/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/youtube/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/firewall/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/home-network/</loc>
+    <loc>https://liviuiancu.com/tags/home-network/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/series/network/</loc>
+    <loc>https://liviuiancu.com/series/network/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/opnsense/</loc>
+    <loc>https://liviuiancu.com/tags/opnsense/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/</loc>
+    <loc>https://liviuiancu.com/tags/router/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/posts/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/tags/router/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/series/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/tags/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/series/programming/</loc>
+    <loc>https://liviuiancu.com/tags/cmd/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/blockchain/</loc>
+    <loc>https://liviuiancu.com/tags/terminal/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liviuiancu.com/tags/blockchain/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/ergo/</loc>
+    <loc>https://liviuiancu.com/tags/ergo/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/learning/</loc>
+    <loc>https://liviuiancu.com/tags/learning/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/starting-ergo-node/</loc>
+    <loc>https://liviuiancu.com/tags/starting-ergo-node/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/ubuntu/</loc>
+    <loc>https://liviuiancu.com/tags/ubuntu/</loc>
     <lastmod>2022-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/truffle/</loc>
+    <loc>https://liviuiancu.com/tags/truffle/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/angular/</loc>
+    <loc>https://liviuiancu.com/tags/angular/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/jasmine/</loc>
+    <loc>https://liviuiancu.com/tags/jasmine/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/javascript/</loc>
+    <loc>https://liviuiancu.com/tags/stackblitz/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/stackblitz/</loc>
+    <loc>https://liviuiancu.com/tags/unit-testing/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/unit-testing/</loc>
-    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/tags/automate/</loc>
+    <loc>https://liviuiancu.com/tags/automate/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/bash/</loc>
+    <loc>https://liviuiancu.com/tags/bash/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/node/</loc>
+    <loc>https://liviuiancu.com/tags/node/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/scripting/</loc>
+    <loc>https://liviuiancu.com/tags/scripting/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/sharing/</loc>
+    <loc>https://liviuiancu.com/tags/sharing/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/git/</loc>
+    <loc>https://liviuiancu.com/tags/git/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/process-optimization/</loc>
+    <loc>https://liviuiancu.com/tags/process-optimization/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/teamwork/</loc>
+    <loc>https://liviuiancu.com/tags/teamwork/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/series/workflow/</loc>
-    <lastmod>2018-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/tags/centos7/</loc>
+    <loc>https://liviuiancu.com/tags/centos7/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/home-server/</loc>
+    <loc>https://liviuiancu.com/tags/home-server/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/linux/</loc>
+    <loc>https://liviuiancu.com/tags/linux/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/networks/</loc>
+    <loc>https://liviuiancu.com/tags/networks/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/series/networks/</loc>
+    <loc>https://liviuiancu.com/tags/owncloud/</loc>
     <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/owncloud/</loc>
-    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/tags/terminal/</loc>
+    <loc>https://liviuiancu.com/tags/version-control/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/version-control/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liviu.pages.dev/tags/book-review/</loc>
+    <loc>https://liviuiancu.com/tags/book-review/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/browser-perfomance/</loc>
+    <loc>https://liviuiancu.com/tags/browser-perfomance/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/http2/</loc>
+    <loc>https://liviuiancu.com/tags/http2/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/network-perfomance/</loc>
+    <loc>https://liviuiancu.com/tags/network-perfomance/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/pattern-generator/</loc>
+    <loc>https://liviuiancu.com/tags/pattern-generator/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/visualization/</loc>
+    <loc>https://liviuiancu.com/tags/visualization/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/tags/webrtc/</loc>
+    <loc>https://liviuiancu.com/tags/webrtc/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liviu.pages.dev/about/</loc>
+    <loc>https://liviuiancu.com/about/</loc>
   </url><url>
-    <loc>https://liviu.pages.dev/archives/</loc>
+    <loc>https://liviuiancu.com/archives/</loc>
   </url><url>
-    <loc>https://liviu.pages.dev/categories/</loc>
+    <loc>https://liviuiancu.com/categories/</loc>
   </url><url>
-    <loc>https://liviu.pages.dev/search/</loc>
+    <loc>https://liviuiancu.com/search/</loc>
   </url>
 </urlset>

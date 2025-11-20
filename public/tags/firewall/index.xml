@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Firewall on Pages</title>
-    <link>https://liviu.pages.dev/tags/firewall/</link>
-    <description>Recent content in Firewall on Pages</description>
+    <title>Firewall on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/firewall/</link>
+    <description>Recent content in Firewall on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviuiancu.com/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building My Own Firewall Router with OPNsense: A Journey in Home Network Security</title>
-      <link>https://liviu.pages.dev/posts/router-opnsense/</link>
+      <link>https://liviuiancu.com/posts/router-opnsense/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/router-opnsense/</guid>
+      <guid>https://liviuiancu.com/posts/router-opnsense/</guid>
       <description>Some practical benefits running OPNsense on your home network. It vastly improves safety for anyone at home using the internet.</description>
     </item>
   </channel>

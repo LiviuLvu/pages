@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Workflow on Pages</title>
-    <link>https://liviu.pages.dev/series/workflow/</link>
+    <link>https://liviuiancu.com/series/workflow/</link>
     <description>Recent content in Workflow on Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/series/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liviuiancu.com/series/workflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Failing to sell a build optimization idea and not giving up</title>
-      <link>https://liviu.pages.dev/posts/build-optimization/</link>
+      <link>https://liviuiancu.com/posts/build-optimization/</link>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/posts/build-optimization/</guid>
+      <guid>https://liviuiancu.com/posts/build-optimization/</guid>
       <description>Have you ever tried to explain something that could be very helpful but seems too complicated to others because you did not properly present your idea?</description>
     </item>
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Orbstack on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/orbstack/</link>
+    <description>Recent content in Orbstack on Dev Pages</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviuiancu.com/tags/orbstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💻 Convex Hosting on a Home Lab with Docker and Orbstack</title>
+      <link>https://liviuiancu.com/posts/convex-db-self-host/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/convex-db-self-host/</guid>
+      <description>Self-hosting modern application backends is often a puzzle of configuration, especially when working with newer architectures and tools. Convex, with its focus on full-stack development, offers a self-hosted option that&amp;rsquo;s perfect for a &lt;strong&gt;home lab&lt;/strong&gt; environment.</description>
+    </item>
+  </channel>
+</rss>

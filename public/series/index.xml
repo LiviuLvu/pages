@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Series on Pages</title>
-    <link>https://liviu.pages.dev/series/</link>
-    <description>Recent content in Series on Pages</description>
+    <title>Series on Dev Pages</title>
+    <link>https://liviuiancu.com/series/</link>
+    <description>Recent content in Series on Dev Pages</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://liviu.pages.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviuiancu.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Network</title>
-      <link>https://liviu.pages.dev/series/network/</link>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/series/network/</guid>
+      <title>Devops</title>
+      <link>https://liviuiancu.com/series/devops/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/series/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://liviuiancu.com/series/automation/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/series/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://liviu.pages.dev/series/programming/</link>
-      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/series/programming/</guid>
+      <link>https://liviuiancu.com/series/programming/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/series/programming/</guid>
       <description></description>
     </item>
     <item>
-      <title>Workflow</title>
-      <link>https://liviu.pages.dev/series/workflow/</link>
-      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/series/workflow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networks</title>
-      <link>https://liviu.pages.dev/series/networks/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://liviu.pages.dev/series/networks/</guid>
+      <title>Network</title>
+      <link>https://liviuiancu.com/series/network/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/series/network/</guid>
       <description></description>
     </item>
   </channel>
