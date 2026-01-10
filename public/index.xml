@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liviuiancu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Proxmox and Dokploy for my home lab</title>
+      <link>https://liviuiancu.com/posts/proxmox-for-dokploy/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/proxmox-for-dokploy/</guid>
+      <description>Proxmox is my new virtualization platform of choice for running containerized workloads at home. After several detours through configuration rabbit holes, here&amp;rsquo;s what I learned setting up LXC containers for Dokploy and other services.</description>
+    </item>
     <item>
       <title>💻 Convex Hosting on a Home Lab with Docker and Orbstack</title>
       <link>https://liviuiancu.com/posts/convex-db-self-host/</link>

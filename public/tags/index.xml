@@ -7,20 +7,34 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liviuiancu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Convex DB</title>
-      <link>https://liviuiancu.com/tags/convex-db/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviuiancu.com/tags/convex-db/</guid>
+      <title>Dokploy</title>
+      <link>https://liviuiancu.com/tags/dokploy/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/dokploy/</guid>
       <description></description>
     </item>
     <item>
       <title>Home Lab</title>
       <link>https://liviuiancu.com/tags/home-lab/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://liviuiancu.com/tags/home-lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxmox</title>
+      <link>https://liviuiancu.com/tags/proxmox/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/proxmox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convex DB</title>
+      <link>https://liviuiancu.com/tags/convex-db/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/tags/convex-db/</guid>
       <description></description>
     </item>
     <item>
