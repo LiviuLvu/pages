@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mqtt on Dev Pages</title>
+    <link>https://liviuiancu.com/tags/mqtt/</link>
+    <description>Recent content in Mqtt on Dev Pages</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liviuiancu.com/tags/mqtt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Push notifications from sensors using python automation</title>
+      <link>https://liviuiancu.com/posts/sensor-push-notification/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/sensor-push-notification/</guid>
+      <description>Practical, fun way to use Python to solve problems in home automation.</description>
+    </item>
+  </channel>
+</rss>

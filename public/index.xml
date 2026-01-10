@@ -7,7 +7,7 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liviuiancu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Running Proxmox and Dokploy for my home lab</title>
@@ -50,6 +50,13 @@
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://liviuiancu.com/posts/cmd-line-colors/</guid>
       <description>Coloring the output of a command</description>
+    </item>
+    <item>
+      <title>Push notifications from sensors using python automation</title>
+      <link>https://liviuiancu.com/posts/sensor-push-notification/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/sensor-push-notification/</guid>
+      <description>Practical, fun way to use Python to solve problems in home automation.</description>
     </item>
     <item>
       <title>Firefox plugin - Hide YouTube recommendation sections</title>

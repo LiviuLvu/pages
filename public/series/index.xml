@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liviuiancu.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>https://liviuiancu.com/series/programming/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/series/programming/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Devops</title>
       <link>https://liviuiancu.com/series/devops/</link>
@@ -21,13 +28,6 @@
       <link>https://liviuiancu.com/series/automation/</link>
       <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://liviuiancu.com/series/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://liviuiancu.com/series/programming/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://liviuiancu.com/series/programming/</guid>
       <description></description>
     </item>
     <item>

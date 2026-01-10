@@ -7,7 +7,7 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liviuiancu.com/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Running Proxmox and Dokploy for my home lab</title>
@@ -15,6 +15,13 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://liviuiancu.com/posts/proxmox-for-dokploy/</guid>
       <description>Proxmox is my new virtualization platform of choice for running containerized workloads at home. After several detours through configuration rabbit holes, here&amp;rsquo;s what I learned setting up LXC containers for Dokploy and other services.</description>
+    </item>
+    <item>
+      <title>Push notifications from sensors using python automation</title>
+      <link>https://liviuiancu.com/posts/sensor-push-notification/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/sensor-push-notification/</guid>
+      <description>Practical, fun way to use Python to solve problems in home automation.</description>
     </item>
   </channel>
 </rss>
