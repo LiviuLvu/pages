@@ -14,18 +14,18 @@ Below are steps I went through in the building process, requiremets, whishlist r
 
 ### Table of Contents
 - [The Tech Stack](#the-tech-stack)
-- [Architecture & Query Flow](#architecture-&-query-flow)
+- [Architecture Query Flow](#architecture-query-flow)
 - [Implemented RAG Features](#implemented-rag-features)
 - [Future Roadmap](#future-roadmap)
-- [Core Components](#core-components-o-the-rag-application)
-  - [Document loader](#document-loader)
-  - [Text splitter](#text-splitter)
-  - [Embeddings](#embeddigns)
-  - [Vector Store](#vector-store)
-  - [Retriever](#retriever)
-  - [Prompt template](#prompt-template)
-  - [LLM model query](#llm-model-query)
-  - [UI for the RAG app](#ui-for-the-rag-app)
+- [Core Components](#core-components-of-the-rag-application)
+  - [Document loader](#-document-loader)
+  - [Text splitter](#-text-splitter)
+  - [Embeddings](#-embeddigns)
+  - [Vector Store](#-vector-store)
+  - [Retriever](#-retriever)
+  - [Prompt template](#-prompt-template)
+  - [LLM model query](#-llm-model-query)
+  - [UI for the RAG app](#-ui-for-the-rag-app)
 - [Deployment to Proxmox](#deploy-to-proxmox)
 - [Problems and solutions to RAG search](#problems-and-solutions-to-rag-search)
 - [Thoughts about the RAG chat ](#thoughts-about-the-rag-chat)
@@ -39,7 +39,7 @@ Below are steps I went through in the building process, requiremets, whishlist r
 | **Embeddings** | Local small embeddings model |
 | **LLM** | Local model on [Ollama](https://ollama.com/) | 
 
-### Architecture & Query Flow
+### Architecture Query Flow
 The request travels from blog to the local LLM  
 `Blog -> Cloudflare URL -> cloudflared -> RAG Container (UI) -> LLM Container (Ollama)`  
 Integration with blog as a simple link on first page or separate page containing link to a local running container.
