@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liviuiancu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog chat based on RAG AI with local small LLM</title>
+      <link>https://liviuiancu.com/posts/chat-blog-rag-app/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/chat-blog-rag-app/</guid>
+      <description>This is my first attempt to build a chat bot that answers only based on found documents. In this case my blog posts.</description>
+    </item>
     <item>
       <title>Running Proxmox and Dokploy for my home lab</title>
       <link>https://liviuiancu.com/posts/proxmox-for-dokploy/</link>
@@ -91,6 +98,13 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h3 id=&#34;key-points-and-lessons-learned&#34;&gt;Key points and lessons learned&lt;/h3&gt;
 &lt;p&gt;Understand &lt;strong&gt;bandwidth&lt;/strong&gt; (measured in Mbps) vs latency (measured in ms). Need to transfer many small pieces? Latency is priority. Need to send big files over same pipe others are transferring big files? Bandwidth is more important.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Summary about this blog and the author: Liviu Iancu</title>
+      <link>https://liviuiancu.com/posts/summary/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://liviuiancu.com/posts/summary/</guid>
+      <description>About this Blog Summary TLDR and Liviu Iancu. What this blog is about? This is a technical journal, documenting experiments in software engineering, networking, and self-hosting home lab.</description>
     </item>
     <item>
       <title>Failing to sell a build optimization idea and not giving up</title>
