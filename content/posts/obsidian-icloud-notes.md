@@ -97,13 +97,10 @@ fix: always keep finder open whith the Obsidian folder
 fix: mac mini stays screen always on setting. Lock screen. Phisycal screen turned off button.
 
 - after laptop restart folder is not mounted.  
-fix: add to /etc/fstab this line at the end (replace username).
-```bash
-sshfs#username@mini-ip:/Users/username/Library/Mobile\ Documents/iCloud~md~obsidian/Documents  /home/username/icloud-obsidian  fuse.sshfs  defaults,allow_other,_netdev,reconnect,ServerAliveInterval=15,ServerAliveCountMax=3  0  0
-```
+fix: use autofs
 
-- some imports failed. I had over 200 notes.  
-fix: manual transfer of each failed note. About 10.
+- some imports failed.  
+fix: manual transfer of each failed note.
 
 **Launchd macos job**
 
