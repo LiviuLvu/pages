@@ -86,6 +86,9 @@ Currently there's no way to export in bulk from icloud notes.Requires plugin to 
 
 **Problems encountered during testing and setup**
 
+- some imports failed.  
+fix: manual transfer of each failed note.
+
 - mac folder syncs to linux, Obsidian shows old content.  
 fix: ctrl + p  >> reload app without saving
 
@@ -97,10 +100,7 @@ fix: always keep finder open whith the Obsidian folder
 fix: mac mini stays screen always on setting. Lock screen. Phisycal screen turned off button.
 
 - after laptop restart folder is not mounted.  
-fix: use autofs
-
-- some imports failed.  
-fix: manual transfer of each failed note.
+fix: use systemd service
 
 **Launchd macos job**
 
@@ -134,6 +134,63 @@ launchctl unload ~/Library/LaunchAgents/com.icloud.obsidian.sync.plist
 
 launchctl load ~/Library/LaunchAgents/com.icloud.obsidian.sync.plist
 ```
+
+**Mount folder at Linux startup**
+
+Working manual command:
+```bash
+`sudo sshfs <user>@<ipmacos>:"/Users/<user>/Library/Mobile Documents/iCloud~md~obsidian/Documents" /mnt/test-icloud -o allow_other,IdentityFile=/home/<user>/.ssh/<your_ssh_key>`
+```
+
+Wrap this in a shell script instead and call it from systemd:
+`sudo vim /usr/local/bin/mount-icloud.sh`
+
+```bash
+#!/bin/bash
+sshfs <user>@<ipmacos>:"/Users/<user>/Library/Mobile Documents/iCloud~md~obsidian/Documents" /mnt/icloud \
+  -o allow_other,reconnect,ServerAliveInterval=15,ServerAliveCountMax=3,IdentityFile=/home/<user>/.ssh/<your_ssh_key>
+```
+
+Set it to executable:
+```bash
+`sudo chmod +x /usr/local/bin/mount-icloud.sh`
+```
+
+Create systemd service:
+```bash
+sudo vim /etc/systemd/system/mnt-icloud.service
+```
+
+```bash
+[Unit]
+Description=iCloud Obsidian SSHFS
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/local/bin/mount-icloud.sh
+ExecStop=/bin/umount /mnt/icloud
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Start and check:
+```bash
+sudo systemctl daemon-reload 
+sudo systemctl start mnt-icloud.service 
+sudo systemctl status mnt-icloud.service
+```
+
+Now enable on boot and verify:
+```bash
+ls /mnt/icloud
+sudo systemctl enable mnt-icloud.service
+```
+
+Restart laptop and check folder is mounted. Obsidian should be able to read the folder.
 
 Something similar could probably also work with google drive. 
 
