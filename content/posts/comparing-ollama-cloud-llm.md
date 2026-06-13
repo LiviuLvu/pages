@@ -1,8 +1,19 @@
+---
+title: "Comparing Ollama Cloud Models"
+date: "2026-06-14"
+summary: "Across most models I tested in the last month from Ollama cloud models, I noticed a few recurring patterns..."
+tags: ["ai", "ollama", "llm", "cloud models", "comparing llm"]
+author: "Liviu Iancu"
+weight: 1
+series: ["AI"]
+---
+
 # Ollama Cloud Models Review
 
 **I Switched from Claude Code CLI monthly subscription to Ollama** for about a month to try Hermes and Opencode. The main selling point for me was the memory management Hermes claimed to provide.
 
-**Claude big downside** was how fast I kept bumping in the subscription limit. The main limitation was at the time that I could not use any other harness except the one from Anthropic.
+**Claude big downside** was how fast I kept bumping in the subscription limit.  
+The main limitation was at the time that I could not use any other harness except the one from Anthropic.
 
 **Overall, I'm pretty happy with Ollama cloud models + Hermes** considering the cost and the amount of output I managed to get while working on my home lab and personal projects, mainly rss-insight, an app I personally use to filter news and reduce doom scrolling.
 
@@ -28,12 +39,9 @@ Across most models I tested, I noticed a few recurring patterns:
 
 I used it almost exclusively for a month before comparing it with other Ollama Cloud models. After trying alternatives, some drawbacks became more obvious.
 
-**-** Becomes very unpredictable when it reaches about half its context, aprox 200K tokens.
-
-**-** Ignores previous instructions, such as holding upgrades until a migration is complete.
-
-**-** Can contradict itself in the same prompt.
-
+**-** Becomes very unpredictable when it reaches about half its context, aprox 200K tokens.  
+**-** Ignores previous instructions, such as holding upgrades until a migration is complete.  
+**-** Can contradict itself in the same prompt.  
 **-** When asked to reduce duplicate items, sometimes reintroduces items removed earlier.
 
 ### deepseek-v4-pro:cloud
@@ -46,25 +54,19 @@ I used it almost exclusively for a month before comparing it with other Ollama C
 
 ### minimax-m3:cloud
 
-**-** Extremely verbose.
-
-**-** Difficult to review and verify.
-
-**-** Rarely asks useful follow-up questions.
-
+**-** Extremely verbose.  
+**-** Difficult to review and verify.  
+**-** Rarely asks useful follow-up questions.  
 **-** Slightly too sycophantic for my taste.
 
 ### glm-5.1:cloud
 
-**+** Fast responses.
+**+** Fast responses.  
+**+** Generally follows `agents.md`.  
 
-**+** Generally follows `agents.md`.
-
-**-** Sometimes reports tasks as complete while the project is still broken.
-
-**-** Occasionally ignores previous instructions.
-
-**-** Stops unexpectedly after compacting and requires prompting to continue.
+**-** Sometimes reports tasks as complete while the project is still broken.  
+**-** Occasionally ignores previous instructions.  
+**-** Stops unexpectedly after compacting and requires prompting to continue.  
 
 **-** Failed badly on straightforward instruction where others got right:  
   - Asked to create a file using its own name. It used the harness name instead.  
@@ -72,16 +74,13 @@ I used it almost exclusively for a month before comparing it with other Ollama C
 
 ### gemma4:31b-cloud
 
-**-** Weak reliability for code changes.
-
+**-** Weak reliability for code changes.  
 **-** Confidently hallucinates.
 
 ### qwen3.5:cloud
 
-**-** Slower than the others.
-
-**-** Somewhat verbose.
-
+**-** Slower than the others.  
+**-** Somewhat verbose.  
 **-** Didn't really stand out compared to Kimi or DeepSeek.
 
 ## Vulnerability scan experiment

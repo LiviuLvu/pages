@@ -5,7 +5,7 @@ summary: "This is my first attempt to build a chat bot that answers only based o
 tags: ["rag app", "ai app", "chat bot", "documents chat"]
 author: "Liviu Iancu"
 weight: 1
-series: ["Story"]
+series: ["AI"]
 ---
 Providing a RAG (Retrieval-Augmented Generation) AI for my blog.  
 The goal: a privacy-first, locally hosted assistant that only answers based on my posts. No external APIs, no subscriptions — just my hardware and local models.
