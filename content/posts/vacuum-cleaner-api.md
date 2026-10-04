@@ -3,7 +3,7 @@ title: "Building a small web app to control my Miele robot vacuum"
 date: "2026-10-04"
 summary: "How I connected a Miele Scout RX3 to a small application, deployed it in my home lab, and shared acces to family members through cloudflare tunnel."
 # description: ""
-tags: ["Miele", "robot vacuum", "Vue", "Hono", "Docker", "Proxmox", "home lab", "API"]
+tags: ["Vue", "Hono", "Docker", "Proxmox", "home lab", "API"]
 author: "Liviu Iancu"
 weight: 1
 series: ["Programming"]
